@@ -1,0 +1,1131 @@
+:root {
+  --main-bg: #2c2a3e !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .z_img img {
+	position: relative;
+	z-index: 99;
+}
+
+/* Nav */
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .menu>.nav-item>.nav-link {
+	color: #7d7d7d !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .navbar .search_cart .search a.nav-link i, html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .navbar .search_cart .shpping-cart i {
+	color: #7d7d7d !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .menu>.nav-item.submenu.mega_menu.mega_menu_two .mega_menu_inner .dropdown-menu .nav-item .item .text {
+	color: #fff !important;
+}
+/* Nav */
+
+.color_head {
+	color: #051441;
+}
+
+.color_btm {
+	color: #677294;
+}
+
+.hide_fix img ,
+.hide_fix div,
+.hide_fix h6 ,
+.hide_fix h2 {
+	visibility: visible;
+}
+
+
+.drdt-dark-mode .seo_btn {
+    border: 1px solid #ededed;
+}
+
+.drdt-dark-mode .appart_new_banner_area,
+.drdt-dark-mode .banner_area_15 {
+   background-image: -webkit-linear-gradient( 125deg,#1a1a1a 0,#1a1a1a 64%,#1a1a1a 100% ) !important;
+}
+
+.drdt-dark-mode .banner_area_15 {
+	background-color: #1a1a1a !important;
+}
+.drdt-dark-mode .app-landing ,
+.drdt-dark-mode .security_dark,
+.drdt-dark-mode .event_banner_area,
+.drdt-dark-mode .digital_banner_area,
+.drdt-dark-mode .home_analytics_banner_area,
+.drdt-dark-mode .payment_banner_area_two{
+   background-image: -webkit-linear-gradient( 125deg,#1a1a1a 0,#1a1a1a 64%,#1a1a1a 100% ) !important;
+}
+
+
+.drdt-dark-mode .analytices_action_area_two:after{
+    background: inherit !important
+}
+.drdt-dark-mode .page-id-2238 .header_area .navbar .search_cart .search a.nav-link i, 
+.drdt-dark-mode .page-id-4757 .header_area .navbar .search_cart .search a.nav-link i, 
+.drdt-dark-mode .page-id-4916 .header_area .navbar .search_cart .search a.nav-link i, 
+.drdt-dark-mode .page-id-4822 .header_area .navbar .search_cart .search a.nav-link i, 
+.drdt-dark-mode .page-id-2238 .header_area .navbar .search_cart .shpping-cart i,
+.drdt-dark-mode .page-id-4757 .header_area .navbar .search_cart .shpping-cart i,
+.drdt-dark-mode .page-id-4916 .header_area .navbar .search_cart .shpping-cart i,
+.drdt-dark-mode .page-id-4822 .header_area .navbar .search_cart .shpping-cart i,
+.drdt-dark-mode .pos_developer_product_area .developer_product_content .develor_tab .nav-item .nav-link,
+.drdt-dark-mode .chat_banner_content h2,
+.drdt-dark-mode .split_title,
+.drdt-dark-mode .hosting_tab .nav-item .nav-link,
+.drdt-dark-mode .saas_features_item .t_color,
+.drdt-dark-mode .event_team_slider .item h4,
+.drdt-dark-mode .faq_solution_area .title-four h2,
+.drdt-dark-mode .about_area .about_content h2,
+.drdt-dark-mode .b_features_item h3,
+.drdt-dark-mode .gadget_product_area .gadget_pr_item .single_pr_details h3,
+.drdt-dark-mode .shop_product_area .gadget_pr_item .single_pr_details h3,
+.drdt-dark-mode .s_pricing_area .t_color,
+.drdt-dark-mode .software_promo_area .t_color,
+.drdt-dark-mode .service_promo_area .t_color,
+.drdt-dark-mode .prototype_service_area_three .t_color3,
+.drdt-dark-mode .price_info_two .price_head .p_head h4,
+.drdt-dark-mode .agency_service_item a,
+.drdt-dark-mode .agency_service_area .t_color3,
+.drdt-dark-mode .agency_featured_area .t_color3,
+.drdt-dark-mode .agency_featured_item .agency_featured_content h3,
+.drdt-dark-mode .event_text h3,
+.drdt-dark-mode .payment_priceing_area .t_color{
+    color: #fff !important
+}
+
+.drdt-dark-mode .page-id-2238 .header_area.navbar_fixed .navbar .search_cart .search a.nav-link i,
+.drdt-dark-mode .page-id-4916 .header_area.navbar_fixed .navbar .search_cart .search a.nav-link i, 
+.drdt-dark-mode .page-id-4822 .header_area.navbar_fixed .navbar .search_cart .search a.nav-link i, 
+.drdt-dark-mode .page-id-2238 .header_area.navbar_fixed .navbar .search_cart .shpping-cart i,
+.drdt-dark-mode .page-id-4822 .header_area.navbar_fixed .navbar .search_cart .shpping-cart i {
+    color: #051441 !important;
+}
+
+.drdt-dark-mode .redCountdownWrapper .redCountdownValue{
+    width: 80%;
+    left: 16px;
+}
+.drdt-dark-mode .support_home_area,
+.drdt-dark-mode .chat_banner_area,
+.drdt-dark-mode .agency_featured_area,
+.drdt-dark-mode .event_counter_area,
+.drdt-dark-mode .seo_fact_area,
+.drdt-dark-mode .event_fact_area,
+.drdt-dark-mode .event_schedule_area {
+    background: var(--main-bg) !important;
+}
+
+
+.drdt-dark-mode .menu>.nav-item.submenu.mega_menu .mega_menu_inner>.dropdown-menu>.nav-item>.nav-link,
+.drdt-dark-mode .gadget_slider_area .shop_slider_content h3,
+.drdt-dark-mode .startup_banner_area_three .startup_content_three h2,
+.drdt-dark-mode .saas_features_area_three .sec_title .t_color,
+.drdt-dark-mode .gadget_about_area .gadget_details h2,
+.drdt-dark-mode .get_started_section .title_text,
+.drdt-dark-mode .home_one_banner .title_text,
+.drdt-dark-mode .app-deatails-area .title-four h2,
+.drdt-dark-mode .best_screen_features_area .title-four h2,
+.drdt-dark-mode .elementor-counter-number-wrapper,
+.drdt-dark-mode .gadget_pr_item .single_pr_details .price ins,
+.drdt-dark-mode .support_subscribe_area .saas_subscribe_color,
+.drdt-dark-mode .support_price_area .t_color3,
+.drdt-dark-mode .banner_top h2,
+.drdt-dark-mode .setup_inner .setup_content h5,
+.drdt-dark-mode .pos_features_content .h_features_item .h_head,
+.drdt-dark-mode .pos_features_area .pos_features_content h2,
+.drdt-dark-mode .hosting_service_area .hosting_title h2,
+.drdt-dark-mode .hosting_service_item .h_head,
+.drdt-dark-mode .action_area_two .t_color3,
+.drdt-dark-mode .appart_new_content h1,
+.drdt-dark-mode .saas_home_area .banner_top h2,
+.drdt-dark-mode .seo_sec_title h2,
+.drdt-dark-mode .security_title h2{
+    color: #fff !important;
+}
+
+.drdt-dark-mode .hosting_service_item:hover .h_head {
+    color: #2c2c51 !important;
+}
+.drdt-dark-mode .price_tab .nav-item .nav-link.active,
+.drdt-dark-mode .hosting_tab .nav-item .nav-link,
+.drdt-dark-mode .saas_features_area_three.bg_color,
+.drdt-dark-mode .gadget_about_area,
+.drdt-dark-mode .menu>.nav-item.submenu .dropdown-menu.mega_menu_three>.nav-item>.dropdown-menu .nav-item,
+.drdt-dark-mode .support_home_area {
+    background: #1a1a1a;
+}
+.drdt-dark-mode .dropdown-menu span.arrow_carrot-right,
+.drdt-dark-mode .menu>.nav-item.submenu .dropdown-menu .nav-item .nav-link,
+.drdt-dark-mode .menu>.nav-item.submenu.mega_menu.mega_menu_two .mega_menu_inner .dropdown-menu .nav-item .item .text{
+    color: #aaa;
+}
+.drdt-dark-mode .navbar .menu>.nav-item.submenu.mega_menu .dropdown-menu .nav-item:hover>.nav-link {
+    color: #fff !important;
+}
+
+.drdt-dark-mode .menu>.nav-item.submenu .dropdown-menu,
+.drdt-dark-mode .menu>.nav-item.submenu .dropdown-menu .nav-item,
+.drdt-dark-mode .menu>.nav-item.submenu.mega_menu .mega_menu_inner {
+    background-color: #111 !important
+}
+.drdt-dark-mode .price_info_two {
+    -webkit-box-shadow: 0 4px 5px 0 rgb(4 4 4 / 29%);
+    box-shadow: 0 4px 5px 0 rgb(4 4 4 / 29%);
+}
+/* .drdt-dark-mode .features_info {
+    padding-bottom: 90px;
+} */
+.drdt-dark-mode .action_area_three .curved,
+.drdt-dark-mode .call_action_area:before,
+.drdt-dark-mode .saas_banner_area_two .shap_img{
+    display: none;
+}
+
+/* .drdt-dark-mode .banner_section{
+    background: #fff;
+} */
+
+.drdt-dark-mode .gadget_slider_area .slider_item,
+.drdt-dark-mode .agency_banner_area_two {
+    background-image: -webkit-linear-gradient( 
+92deg ,#232323 0,#1e1e1e 100%) !important;
+}
+
+
+.drdt-dark-mode .get_started_section,
+.drdt-dark-mode .best_screen_features_area,
+.drdt-dark-mode .support_subscribe_area,
+.drdt-dark-mode .support_price_area,
+.drdt-dark-mode .h_action_area_three,
+.drdt-dark-mode .erp_call_action_area:after,
+.drdt-dark-mode .feedback_area_three.bg_color,
+.drdt-dark-mode .portfolio_area,
+.drdt-dark-mode .appart_new_banner_area,
+.drdt-dark-mode .software_promo_area,
+.drdt-dark-mode .saas_home_area,
+.drdt-dark-mode .new_startup_banner_area,
+.drdt-dark-mode .prototype_service_area_three {
+    background: #111 !important;
+}
+.drdt-dark-mode .action_area_two{
+    background: #0e0e0e !important;
+}
+
+.drdt-dark-mode .startup_banner_area_three .startup_content_three p,
+.drdt-dark-mode .product_filter .work_portfolio_item,
+.drdt-dark-mode .appart_new_content p,
+.drdt-dark-mode .prototype_service_area_three .p_service_item p{
+    color: #bbb !important;
+}
+
+.drdt-dark-mode .service_carousel:before{
+    content: none;
+}
+.drdt-dark-mode .ticket_area .ticket_shap {
+    background: inherit !important;
+}
+
+.drdt-dark-mode .partner_logo .p_logo_item:hover img {
+    -webkit-filter: contrast(0);
+    filter: contrast(0) !important;
+}
+.drdt-dark-mode .erp_testimonial_item .media .media-body h5{
+    color: #9898b9;
+}
+
+.drdt-dark-mode .setup_inner .setup_item .round {
+    position: relative;
+    z-index: 1;
+}
+.drdt-dark-mode .payment_features_area .bg_shape,
+.drdt-dark-mode .setup_inner .setup_item .line {
+    z-index: 0;
+}
+.drdt-dark-mode .erp_call_action_area.analytices_action_area_two:after{
+    content: none;
+}
+.drdt-dark-mode .saas_banner_area_two .section_intro {
+    background-image: -webkit-linear-gradient( -50deg ,#101010 0,#262626 46%,#030303 100%);
+}
+
+.drdt-dark-mode .company_banner_area{
+    background-image: -webkit-linear-gradient(125deg,#1a1a1a 0,#000000 64%, #1a1a1a 100%);
+}
+
+.drdt-dark-mode .saas_banner_area{
+    background-image: -webkit-linear-gradient(140deg,#1a1a1a 0,#1a1a1a 100%);
+}
+.drdt-dark-mode .carousel-indicators li.active, .drdt-dark-mode .carousel-indicators li:hover{
+    background: inherit;
+    color: #fff;
+}
+.drdt-dark-mode .gadget_pr_item .single_pr_details h3:hover{
+    color: #f66b6a;
+}
+.drdt-dark-mode .battery_info li{
+    color: #cfcfcf;
+}
+.drdt-dark-mode .battery_info li .line{
+    background: #666;
+}
+
+.drdt-dark-mode .menu>.nav-item.submenu .dropdown-menu.mega_menu_three>.nav-item>.dropdown-menu .nav-item .nav-link .navdropdown_link .navdropdown_content .mega_menu_title{
+    color: #b5b6b9;
+}
+.drdt-dark-mode .menu>.nav-item.submenu .dropdown-menu.mega_menu_three>.nav-item>.dropdown-menu .nav-item .nav-link .navdropdown_link .navdropdown_content p{
+    color: #777a83;
+}
+.drdt-dark-mode .menu>.nav-item.submenu .dropdown-menu.mega_menu_three>.nav-item>.dropdown-menu .nav-item:hover{
+    border-color: #353535;
+    background-color: #2b2929;
+}
+.drdt-dark-mode .n_hero_banner_area #hero_shape2_normal path:nth-child(2),
+.drdt-dark-mode .best_screen_features_area svg path {
+    fill: #1a1a1a;
+}
+.drdt-dark-mode .n_hero_banner_area #hero_shape2_normal path:nth-child(3){
+    fill: #50505085 !important;
+}
+.drdt-dark-mode .gadget_slider_area .shop_slider_content h6 {
+    color: #ddd !important;
+}
+.drdt-dark-mode .elementor-divider-separator{
+    border-color: #333 !important;
+}
+.drdt-dark-mode .new_service .separator{
+    background: #5a5a5a;
+}
+.drdt-dark-mode .new_service .saas_features_item:hover .t_color{
+    color: #051441;
+}
+.drdt-dark-mode .symbols-pulse>div {
+    background-image: linear-gradient(-180deg,rgb(119 119 119 / 10%) 0,rgb(116 114 121 / 20%) 65%,rgb(139 139 139 / 12%) 100%);
+}
+
+.drdt-dark-mode .startup_banner_area_three:before{
+    background: url( '../img/dark/home-hr-management-banner.png' ) no-repeat scroll center bottom/cover;
+}
+.drdt-dark-mode .software_banner_area , .drdt-dark-mode .new_startup_banner_area{
+    background-image: -webkit-linear-gradient(140deg,#1a1a1a 0,#000000 100%) !important;
+}
+/* .drdt-dark-mode .subscribe_form_info{
+    border-color: #3d3b3b;
+    background: #1a1a1a;
+} */
+.drdt-dark-mode .developer_product_content .develor_tab{
+    border-color: #4b4e5c;
+}
+/* .drdt-dark-mode .domain_search_area{
+    background: #333;
+}
+.drdt-dark-mode .domain_search_area:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #141414d4;
+    z-index: -1;
+} */
+.drdt-dark-mode .hosting_tab .nav-item .nav-link.active,
+.drdt-dark-mode .h_price_body .h_p_list:hover {
+    background: #2b2b2b;
+}
+.drdt-dark-mode .h_price_body .h_p_list{
+    border-color: #2b2b2b;
+}
+.drdt-dark-mode .saas_banner_area_three .slider_item,
+.drdt-dark-mode .prototype_banner_area,
+.drdt-dark-mode .saas_home_area,
+.drdt-dark-mode .payment_banner_area,
+.drdt-dark-mode .slider_area {
+    background-image: -webkit-linear-gradient(40deg,#000000 0,#141414 100%) !important;
+}
+.drdt-dark-mode .slider_area .bottom_shoape{
+    filter: opacity(0.1);
+}
+.drdt-dark-mode .testimonia_list_layout .quote_icon{
+    opacity: 1;
+}
+/* .drdt-dark-mode .h_map_area{
+    background: #111;
+}
+.drdt-dark-mode .h_map_area .h_map{
+    background: url( ../img/dark/w_map_bg.png ) no-repeat scroll center center !important;
+} */
+.drdt-dark-mode .video_icon i:after{
+    box-shadow: 0 1px 15px 1px rgb(0 0 0 / 90%);
+}
+.drdt-dark-mode .split_content .contact_form_box .text_box input[type=email], 
+.drdt-dark-mode .split_content .contact_form_box .text_box input[type=password],
+.drdt-dark-mode .split_content .contact_form_box .text_box input[type=text], 
+.drdt-dark-mode .split_content .contact_form_box .text_box textarea {
+    background: transparent;
+}
+.drdt-dark-mode .gadget_slider_area .gadget_slider_img .round{
+    border-color: rgb(84 84 84 / 40%);
+}
+
+.drdt-dark-mode .chat_banner_area {
+    background: #161616;
+}
+.drdt-dark-mode .full_header .bar_menu span{
+    background-color: #fff !important;
+}
+
+/* Showrob */
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .white_box .elementor-widget-wrap {
+	box-shadow: none !important;
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .white_box .elementor-widget-wrap .elementor-widget-heading .elementor-widget-container h2 a {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .white_box .elementor-widget-wrap .elementor-widget-text-editor div p {
+	color: #7d7d7d;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .hero_button a.seo_btn_one.seo_btn.btn_hover {
+	background: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .hero_button a.seo_btn_one.seo_btn.btn_hover:hover {
+	background: #5e2ced !important;
+	border-color: #5e2ced !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .hero_button a.seo_btn_two.seo_btn.btn_hover:hover {
+	background: #fff !important;
+	color: #5e2ced !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_title div h2 , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_title div h3 , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_title div h4 , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_title div span , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_title div p , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_title div h3 a {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_title_2 h2 , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_title_2 h3 {
+	color: #33375C !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_title_2 .best_screen_features_area h2 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_sub_title div {
+	color: #7d7d7d !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_sub_title div p {
+	color: #7d7d7d !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_sub_title div h3 {
+	color: #7d7d7d !important;
+}
+
+/* Testimonial  */
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .owl-stage-outer, html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .owl-stage-outer .owl-stage, html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .owl-stage-outer .owl-stage .owl-item {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .owl-dots , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .owl-dots button {
+	background: transparent !important;
+}
+
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial section  , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial section div {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial section div .feedback_item {
+	 background: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial section div img , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial section div p , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial section div h5 , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial section div h6 {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .slick-list.draggable {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .dl_parallax_element , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .dl_parallax_element div {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .slick-track .slick-slide div {
+	border-radius: 10px !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .slick-track , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .slick-track .slick-slide {
+	background: transparent !important;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial.op .slick-track .slick-slide div .item {
+	 background: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .testimonial_title h2 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .d_a_2_tasti .testimonial_title h2 {
+	color: #051441 !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial  h2 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .h_testimonial_area h2 {
+	color: #460EC6 !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .h_testimonial_area h2.content {
+	color: #181B31 !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .slick-track .slick-slide div .app_testimonial_slider-8 .item {
+	background: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #cus_testi_title h2{
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial.style_2  .owl-dots button {
+	color: #000 !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial_new .owl-stage-outer , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial_new .owl-stage-outer div {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial_new .owl-dots , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial_new .owl-dots button {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .app_testimonial_area {
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_testimonial .rave-testimonial .slick-track .slick-slide div {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .testi_color #mar_testi .agency_testimonial_info .testimonial_slider .owl-stage-outer .owl-stage .owl-item .testimonial_item {
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .testi_color_2 .agency_testimonial_info .testimonial_slider {
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .testi_color_2 .agency_testimonial_info .testimonial_slider .testimonial_item h4 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_case_studies .studies_item {
+	background: var(--main-bg) !important;
+	box-shadow: none !important;
+}
+
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_case_studies .studies_item .text , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_case_studies .studies_item .text p {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .iphonex .t_color3 {
+	color: #fff !important;
+}
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .new_service .separator {
+	background: #6b6a74 !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .company_ser {
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .company_ser h2.elementor-heading-title {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .company_ser .new_service .saas_features_item:hover .new_service_content {
+	background: #312e4a !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *)  .company_business {
+	background: var(--main-bg) !important;
+}
+
+/* Counter */
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_counter .redCountdownWrapper , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_counter .redCountdownWrapper span , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_counter .redCountdownWrapper div ,  html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_counter .redCountdownWrapper div canvas ,  html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_counter .redCountdownWrapper div input  {
+    background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_counter .redCountdownWrapper span div , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_counter .redCountdownWrapper span span {
+	color: #fff !important;
+}
+ 
+/* Counter */
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .img_box_dark .elementor-widget-wrap {
+	background: #fff !important;
+	border-radius: 5px !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_price_bgcolor .price_info_two .price_head .p_head:nth-child(1) {
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_price_bgcolor .price_info_two .price_item:nth-child(even) {
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_bg_img {
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .custom_dark_sec {
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .custom_dark_sec_2 , 
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .custom_dark_sec_2 .app_service_area {
+	background: #1A1A1A !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .custom_dark_sec div {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .agency_banner_area .banner_shap {
+	opacity: 0 !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .c_sec_title .agency_banner_area .agency_content h2 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .c_sec_title .agency_banner_area .agency_content .action_btn a.agency_banner_btn_two {
+	color: #7d7d7d !important;
+}
+
+/* html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .agency_service_area {
+	background: var(--main-bg) !important;
+} */
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .marketing_cus_sec_bg {
+	background: var(--main-bg) !important;
+}
+/* 
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #mar_testi .agency_testimonial_info .testimonial_slider {
+	background: var(--main-bg) !important;
+} */
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #mar_testi .agency_testimonial_info .testimonial_slider .owl-stage-outer .owl-stage .owl-item .testimonial_item {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #mar_testi .agency_testimonial_info .testimonial_slider .owl-stage-outer .owl-stage .owl-item .testimonial_item .author_img  , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #mar_testi .agency_testimonial_info .testimonial_slider .owl-stage-outer .owl-stage .owl-item .testimonial_item p , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #mar_testi .agency_testimonial_info .testimonial_slider .owl-stage-outer .owl-stage .owl-item .testimonial_item .author_description ,  html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #mar_testi .agency_testimonial_info .testimonial_slider .owl-stage-outer .owl-stage .owl-item .testimonial_item .author_description h4 ,  html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #mar_testi .agency_testimonial_info .testimonial_slider .owl-stage-outer .owl-stage .owl-item .testimonial_item .author_description h6 {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .payment_banner_area img.svg_intro_bottom {
+  display: none !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_bg_shape .payment_features_area .bg_shape{
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_bg_shape .payment_features_content h2 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_bg_shape .payment_features_content p {
+	color: #7d7d7d !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .tns_sec_bg , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .tns_sec_bg div {
+	background: transparent !important
+}
+
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_process .payment_clients_area .clients_bg_shape_top {
+	background: #fff !important; 
+	top: -85px !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_process .payment_clients_area .clients_bg_shape_right {
+	background: #1a1a1a !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .c_t_a_dark a.btn_hover.agency_banner_btn.pay_btn.pay_btn_two {
+	color: #fff !important;
+}
+
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .c_t_a_dark a.btn_hover.agency_banner_btn.pay_btn.pay_btn_two:hover {
+	background: #fff !important;
+	color: #5956fe !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .software_promo_area {
+    background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .prototype_banner_area .prototype_content h2 {
+	color: #fff !important;
+}
+
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .prototype_featured_area {
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .prototype_featured_area h2 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_tab .design_tab .nav-item .nav-link {
+	background-color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_tab .design_tab .nav-item .nav-link.active {
+    background-color: #7444fd !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_tab .design_tab .nav-item .nav-link h5 {
+	color: #222d39 !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_tab .design_tab .nav-item .nav-link.active h5, html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_tab .design_tab .nav-item .nav-link.active p {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_tab .design_tab .nav-item .nav-link p:hover {
+	color: #677294 !important;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_tab .design_tab .nav-item .nav-link.active p:hover {
+	 color: #fff !important;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_client {
+	background: var(--main-bg) !important;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .feature_dark_icon .f_content .icon i {
+	 background: transparent !important;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .new_dark_bg {
+	 position: relative;
+	 z-index: 2;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .new_dark_bg:after {
+	content: "";
+    width: 100%;
+    height: 100%;
+    background-image: -webkit-linear-gradient( 92deg ,#232323 0,#1e1e1e 100%) !important;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: .4;
+	 z-index: -1;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .img_sdw_remove div img {
+	 box-shadow: none !important;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_f_bg .home_features_slider .slick-list .item .agency_features_item {
+	 box-shadow: none !important;
+	 background: var(--main-bg) !important;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_f_bg .home_features_slider .slick-list .item .agency_features_item h3 {
+	 color: #fff !important;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_f_bg .h_features_right_title div h2 span {
+	 color: #fff !important;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_f_bg .home_features_slider .slick-list .item .agency_features_item p {
+	 color: #7d7d7d !important;
+}
+
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_portfo_maso div ,  html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_portfo_maso div section {
+	 background: transparent !important;
+}
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .images_cards .startup_tab .nav-item {
+    width: calc(94% / 6);
+    margin: 0 5px;
+	box-shadow: none;
+}
+
+
+ html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .images_size_style .chat_features_img img {
+	 border-radius: 5px;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #dark_subs div {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .faster_border_round .saasland_heading span {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .pricing_seving_button .dl_switcher_control .dl_toggler_label {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .text_background_color h1 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .lord_col div {
+	box-shadow: none !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .d-a-dark-border-style .elementor-widget-container {
+	box-shadow: none !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #dark_shadow , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #dark_shadow img {
+	box-shadow: none !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .get_started_section  {
+	background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .footer_color {
+	background: #1a1a1a !important;
+}
+
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .banner_area_15 .banner_text_intro h2 span {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .architecture_text , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .architecture_text h2 , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .architecture_text h2 span {
+	background: transparent !important;
+} 
+
+/* html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #col_bg .elementor-container.elementor-column-gap-default {
+	background: transparent !important;
+}  */
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .slider_item.slider_bg_color {
+    position: relative;
+    z-index: 2;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .slider_item.slider_bg_color::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: #000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: .55;
+    z-index: -1;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .business_info .work_steps_item .number {
+	z-index: 2;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .business_info .work_steps_item:not(:first-child)::before {
+	background-image: linear-gradient(45deg, #000000, #c8cbca 75%, transparent 75%, transparent 100%);
+	z-index: 1;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_team_box h3 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #bg_sec {
+    position: relative;
+    z-index: 2;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #bg_sec::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.75;
+    z-index: -1;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .hero_section_education .corporate_banner_area h2 span {
+	background: transparent !important;
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_icon_color i {
+	color: #4c83ff !important
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .support_subscribe_area h6 {
+	color: #000 !important
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_slider_dot .slick-dots , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_slider_dot .slick-dots li {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_slider_dot .slick-dots li button {
+	background: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_img_color img {
+	filter: invert(1) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_silider .gadget_slider_area .slider_item {
+	background-image: -webkit-linear-gradient( 125deg,#1a1a1a 0,#1a1a1a 64%,#1a1a1a 100% ) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_product .slick-list , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_product .slick-list div {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_product .slick-list div .gadget_pr_item {
+	background: #ecf4fa !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .bg_hide .elementor-widget-wrap.elementor-element-populated {
+	background-image: none !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .testimonial_dark_bg .owl-stage-outer , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .testimonial_dark_bg .owl-stage-outer .owl-stage , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .testimonial_dark_bg .owl-stage-outer .owl-stage .owl-item {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .domain_search_area .domain_select .current {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .home_analytics_banner_area .container .h_analytics_content a {
+	background: #4e78f4 !important;
+    border-color: #4e78f4 !important;
+    color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .home_analytics_banner_area .container .h_analytics_content a:hover {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #dark_price .analytices_price_item {
+	background: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .testimonial_dark_bg .erp_testimonial_area {
+	background: #1a1a1a !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_cus_btn .erp_banner_area_two .section_container .intro_content .er_btn {
+	background: #4e78f4 !important;
+    border-color: #4e78f4 !important;
+    color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_cus_btn .erp_banner_area_two .section_container .intro_content .er_btn:hover {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_cus_btn .erp_customer_logo_area a.er_btn {
+	background: transparent !important;
+    border-color: #4e78f4 !important;
+    color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_cus_btn .erp_customer_logo_area a.er_btn:hover {
+	background: #4e78f4 !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .testimonial_dark_bg .erp_testimonial_area h2 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_hosting_tab .hosting_tab .nav-item .nav-link {
+   background: var(--main-bg) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_hosting_tab .hosting_tab .nav-item .nav-link.active {
+	background: #2b2b2b !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #pp-nav li a span {
+	    background: #decbfe !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #pp-nav li a.active span {
+	background: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .pp_testimonial_slider .slick-slide {
+	border-color: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .full_header .bar_menu span {
+	background: #fff !important
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .full_header.header_area , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .full_header.header_area div {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .ms-section.section_8 .ms-tableCell , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .ms-section.section_10 .ms-tableCell {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #multiscroll-nav , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #multiscroll-nav ul , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #multiscroll-nav ul li {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #multiscroll-nav ul li a span {
+	background: #decbfe !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #multiscroll-nav ul li a.active span {
+	background: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .custom_dark_sec div .service_item {
+	background: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .custom_dark_sec div .service_item .icon.s_icon_one {
+	background-image: -webkit-linear-gradient(40deg,#5e2ced 0%,#a485fd 100%) !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .footer_cus_bg .new_footer_area {
+    background: #222534 !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .footer_cus_bg .new_footer_area h3 {
+	color: #fff !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .section-1 .section_one-content h2 span {
+	background: transparent !important;
+}
+
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .c_t_a_dark .payment_action_area .clients_bg_shape_bottom {
+	display: none;
+}
+
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .testi_remove_img {
+	overflow: hidden;
+}
+
+/* Revolution Slider */
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) rs-mask-wrap , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .rs-parallax-wrap , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) rs-loop-wrap , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) rs-row , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) rs-cbg-mask-wrap ,  html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) rs-column-bg {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) rs-bullets , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) rs-bullet {
+	background: transparent !important;
+}
+
+/* Revolution Slider */
+
+.dark_fix .portfolio_masonry_grid .grid-item .portfolio_grid {
+	margin: 0;
+}
+
+.tab_img_info:after, .tab_img_info:before {
+    width: 0 !important;
+    height: 0 !important;
+}
+
+
+.dark_net .portfolio_filter div:nth-child(9),
+.dark_net .portfolio_filter div:nth-child(8),
+.dark_net .portfolio_filter div:nth-child(7) {
+	display: none;
+}
+
+.dark_net .product_filter .work_portfolio_item:nth-child(9),
+.dark_net .product_filter .work_portfolio_item:nth-child(8),
+.dark_net .product_filter .work_portfolio_item:nth-child(7) {
+	display: none !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_dot .owl-dots , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_dot .owl-dots button {
+	background: transparent !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .dark_dot .owl-dots , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) .strong_color .agency_service_area .t_color3 {
+	color: #222d39 !important;
+}
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #pp-nav , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #pp-nav ul , html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) #pp-nav ul li {
+	background: transparent !important;
+}
+
+
+html.drdt-dark-mode :not(.drdt-ignore-dark):not(.drdt_checkbox):not(.droit_dark):not(.droit_light):not(.dark_switch_box):not(img):not(option):not(input):not(select):not(textarea):not(mark):not(code):not(pre):not(ins):not(button):not(a):not(video):not(canvas):not(progress):not(iframe):not(svg):not(path):not(.mejs-iframe-overlay):not(.mejs-iframe-overlay):not(.elementor-element-overlay):not(.elementor-background-overlay):not(i):not(button *):not(a *) i.ti-heart {
+	background: transparent !important;
+}
+
+.dark_post .main_product_item>img {
+	max-height: 770px !important;
+}
+
+.page-id-9550 header.header_area.header_stick {
+	background: #fff;
+}
+
+.page-id-9550 .menu>.nav-item>.nav-link {
+	color: #000;
+}
+
+.page-id-9550 .navbar .search_cart .search a.nav-link i {
+	color: #000;
+}
+
+.page-id-9550 .sticky_logo .sticky_logo_img {
+	display: block;
+}
+
+.page-id-9550 .header_stick .sticky_logo .main_logo_img {
+	display: none;
+}
+
+.drdt-dark-mode .page-id-9550 .sticky_logo .sticky_logo_img {
+	display: none;
+}
+
+.drdt-dark-mode .page-id-9550 .header_stick .sticky_logo .main_logo_img {
+	display: block;
+}
+
+.drdt-dark-mode .header_area.navbar_fixed .sticky_logo .sticky_logo_img {
+	display: none;
+}

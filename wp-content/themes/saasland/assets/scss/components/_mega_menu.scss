@@ -1,0 +1,45 @@
+.megamenu_wrapper {
+    position: relative;
+}
+
+.has-saasland-mega-menu{
+    position: initial !important;
+}
+
+.has-saasland-mega-menu {
+    a {
+        display: inline-block;
+    }
+}
+
+
+.sln-megamenu-content {
+    width: 100%;
+    left: 0 !important;
+    right: 0;
+    max-width: 100%;
+}
+.megamenu_wrapper {
+    position: relative;
+}
+.megamenu_wrapper li.has-saasland-mega-menu,
+.megamenu_wrapper .menu>.nav-item.has-saasland-mega-menu{
+    position: initial !important;
+}
+.sln-megamenu-content{
+    width: 100%;
+}
+.has-saasland-mega-menu .nav-link{
+    display: inline-block;
+}
+@media (max-width: 991px) {
+    .mega_menu span.arrow_carrot-right {
+        display: block;
+    }
+    .menu > .nav-item.submenu.mega_menu .mega_menu_inner > .dropdown-menu > .nav-item > .nav-link {
+        font: 400 14px/34px "Poppins", sans-serif;
+    }
+    .menu>.nav-item.submenu.mega_menu .mega_menu_inner>.dropdown-menu>.nav-item{
+        width: 100%;
+    }
+}

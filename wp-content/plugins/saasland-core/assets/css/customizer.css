@@ -1,0 +1,264 @@
+.agency_testimonial_info .testimonial_slider .testimonial_item .author_description {
+    margin-top: 0;
+}
+.subscribe_field_color input.form-control::placeholder {
+    color: #bdbed6 !important;
+}
+.subscribe_field_color input.form-control {
+    border-bottom: 1px solid #bdbed6 !important;
+}
+.testimonials_date_color a.post_date {
+    color: #C0BFBF !important;
+}
+.ht-tab .tab_img_info:after {
+    width: 0 !important;
+    height: 0 !important;
+}
+
+.testimonial_app .app_testimonial_slider-8 .item .author_img {
+    left: 45%;
+}
+
+@media(max-width: 767px){
+    .drdt-ignore-dark .slider_arrow {
+        display: none;
+    }
+}
+
+
+
+/* New css start Cyber Security */
+.cyber_security_subscribe input.dl_form_control {
+    background: transparent;
+}
+.cyber_security_subscribe button.dl_cu_btn.dl_btn_hover_style_one::after {
+    content: "\f061";
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: 10px;
+}
+.button_color_style {
+    background: linear-gradient(87deg, #6366FF, #44DA64)!important;
+    border: none;
+}
+.button_color_style:hover {
+    background: linear-gradient(87deg, #44DA64, #6366FF)!important;
+}
+/* end Cyber Security */
+/* new css start data anyaltcis */
+a.menu_cus.btn_get.btn-meta.btn_hover.btn-new-design-agency {
+    background: linear-gradient(
+            85.2deg
+            , #6366FF -3.07%, #21D3A1 97.37%);
+    box-shadow: 0px 25px 100px 25px rgb(38 203 169 / 25%);
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+a.menu_cus.btn_get.btn-meta.btn_hover.btn-new-design-agency:hover {
+    background: linear-gradient(
+            85.2deg
+            , #21D3A1 -3.07%, #6366FF 97.37%);
+}
+.app_testimonial_slider-8 .item{
+    box-shadow: none !important;
+}
+.slider_arrow button {
+    box-shadow: none !important;
+}
+.app_testimonial_slider-8 .item .author_img {
+    left: 45%!important;
+}
+@media(max-width: 1200px){
+    .testimonial_design_agency .slider_arrow {
+        display: none;
+    }
+}
+
+.cyber_security_subscribe input.dl_form_control {
+    margin: 0 0px 10px 0px !important;
+}
+
+.cyber_security_subscribe label{
+    display: none !important;
+}
+
+.text_background_color span {
+    position: relative;
+    display: inline-block;
+    z-index: 2;
+}
+.text_background_color span.drdt-ignore-dark::before {
+    content: "";
+    width: 100%;
+    height: 15px;
+    position: absolute;
+    bottom: 8px;
+    left: 0;
+    background: #FED4E7;
+    z-index: -1;
+}
+
+/* design agency */
+.design_agency_subscribe{
+    position: relative;
+}
+.design_agency_subscribe:before {
+    content: "";
+    position: absolute;
+    right: -49px;
+    bottom: 50px;
+    width: 175px;
+    height: 350px;
+    background: url(https://saaslandwp.com/demo/digital-agency/wp-content/uploads/sites/4/2021/12/Layer-1-1-1.png) no-repeat;
+}
+/* design agency */
+
+
+
+.images_cards li.nav-item:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 30px 110px 0px #eff0f6;
+    z-index: 9;
+}
+
+
+.images_cards li.nav-item {
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0px 10px 70px 0px #eff0f6;
+    padding: 36px 0px;
+    transition: all 0.3s linear;
+    width: 100%;
+}
+
+.images_cards .startup_tab .nav-item {
+    width: calc(100% / 6);
+}
+@media(max-width: 991px){
+    .images_cards .startup_tab .nav-item {
+        width: calc(100% / 3);
+    }
+}
+@media(max-width: 575px){
+    .images_cards .startup_tab .nav-item {
+        width: calc(100% / 2);
+    }
+}
+
+.images_cards .startup_tab .nav-item .nav-link {
+    border: none !important;
+    background: none !important;
+}
+.images_cards span.icon {
+    background: none !important;
+}
+/* subscribe form */
+.subscribe_form_style .dl_pro_subscribe_form {
+    justify-content: center !important;
+}
+.subscribe_form_style .dl-field-email {
+    border: none !important;
+}
+.subscribe_form_style label{
+    display:none !important;
+}
+.subscribe_form_style .dl_form_control_wrap {
+    margin-right: 15px !important;
+}
+.subscribe_form_style
+.dl_form_control {
+    margin: 0px !important;
+}
+.subscribe_form_style .dl_btn_hover_style_one {
+    cursor: pointer;
+}
+.subscribe_form_style .dl_btn_hover_style_one::after {
+    content: "\e628";
+    font-family: 'themify';
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 10px;
+}
+/* end */
+@media(max-width:767px){
+    .images_size_style .chat_features_img_one img {
+        width: 145px;
+        height: 145px;
+    }
+    .subscribe_form_style .dl_form_control_wrap {
+        margin-right: 0px !important;
+    }
+}
+@media(max-width:1440px){
+    .rave-testimonial .h_testimonial_thumb{
+        left:0;
+    }
+}
+
+/* business css */
+.business_blog .dl_single_info_box_content {
+    border: 1px solid #ddebe8;
+    border-top: none;
+}
+
+.business_banner .dl_container .banner_slider_content a {
+    display: inline-block;
+}
+
+/* end business css */
+.digital-agency-3 .menu > .nav-item > .nav-link:before {
+    background: none !important;
+}
+.digital-agency-3 .menu>.nav-item.submenu.mega_menu.mega_menu_two .mega_menu_inner .dropdown-menu .nav-item .item .text:hover {
+    color: #ff4d6f;
+}
+
+
+
+/* start business blog css */
+.business_blog .dl_description{
+    position: relative;
+}
+.business_blog .dl_description::before {
+    content: "";
+    width: 30px;
+    height: 1px;
+    background-color: #5ea998;
+    position: absolute;
+    top: -25px;
+    left: 0px;
+}
+/* end business blog css */
+/* end business subscribe css */
+.business_subscribe  input.dl_form_control {
+    background: transparent;
+    border: none;
+}
+.business_subscribe .dl-field-email {
+    width: 80%;
+}
+.business_subscribe .dl_btn_hover_style_one{
+    cursor: pointer;
+}
+@media(max-width:767px){
+    .business_subscribe .dl-pro-sub-inline .dl_pro_subscribe_form .dl-field-email{
+        width: 75%;
+    }
+    .business_subscribe .dl-pro-sub-inline .dl_pro_subscribe_form .dl_btn_hover_style_one{
+        width: 10%;
+    }
+}
+/* end business subscribe css */
+/*Start Business Hero Section */
+.business_banner .dl_banner_swiper_navigation .swiper_banner_nav_button:hover{
+    background: white !important;
+    color: #6754e2;
+}
+
+.business_banner .dl_banner_swiper_navigation .swiper_banner_nav_button{
+    color: rgba(255, 255, 255, 0.4);
+    margin: 5px;
+}
+/*End Business Hero Section */

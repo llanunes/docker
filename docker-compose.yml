@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:5.7   # Forçando o uso de uma imagem específica para arquitetura x86_64
+    platform: linux/x86_64   # Especificando a plataforma x86_64
+    volumes:
+      - db_data:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 4D0N@13L5H4dD4i
+      MYSQL_DATABASE: wp_j3express
+      MYSQL_USER: _j3express
+      MYSQL_PASSWORD: 4D0N@13L5H4dD4i
+
+  wordpress:
+    depends_on:
+      - db
+    image: wordpress:latest
+    ports:
+      - "8080:80"
+    restart: always
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: _j3express
+      WORDPRESS_DB_PASSWORD: 4D0N@13L5H4dD4i
+      WORDPRESS_DB_NAME: wp_j3express
+    volumes:
+      - ./wp-content:/var/www/html/wp-content
+
+volumes:
+  db_data:

@@ -1,0 +1,81 @@
+/*==============dl_subscribe_info css ===========*/
+.dl_pro_subscribe_form_action.dl-pro-sub-inline .dl_pro_subscribe_form {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dl_pro_subscribe_form_action.dl-pro-sub-block .dl_pro_subscribe_form .dl_form_control_wrap > label,
+.dl_pro_subscribe_form_action.dl-pro-sub-inline .dl_form_control_wrap > label {
+  display: block;
+  margin: 0
+}
+
+.dl_pro_subscribe_form_action.dl-pro-sub-inline .dl_pro_subscribe_form .dl_form_control_wrap input {
+  border-radius: 0;
+}
+
+@media (max-width: 767.98px) {
+  .dl_pro_subscribe_form_action.dl-pro-sub-inline .dl_form_control_wrap {
+    border-left: 0px solid transparent;
+  }
+
+  .dl_pro_subscribe_form_action.dl-pro-sub-inline .dl_pro_subscribe_form {
+    flex-wrap: wrap;
+  }
+
+  .dl_pro_subscribe_form_action.dl-pro-sub-inline .dl_pro_subscribe_form .dl_form_control_wrap {
+    width: 100%;
+    display: block;
+    margin: 10px 0;
+  }
+
+  .dl_pro_subscribe_form_action.dl-pro-sub-inline .dl_pro_subscribe_form .dl_form_control_wrap input {
+    margin-top: 0;
+    width: 100%;
+    display: block;
+  }
+
+  .dl_pro_subscribe_form_action.dl-pro-sub-inline .dl_pro_subscribe_form .dl_cu_btn {
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+}
+
+.dl_pro_subscribe_form_action.dl-pro-sub-block .dl_pro_subscribe_form {
+  display: grid;
+}
+
+.dl_subscribe_addons .dl_form_control_wrap input {
+  width: 100%;
+  display: block;
+}
+
+.dl_subscribe_addons .dl_form_control_wrap {
+  width: 100%;
+  display: block;
+}
+
+.elementor-widget-droit-subscriber .dl_pro_subscribe_form {
+  padding: 10px 20px 10px 20px;
+  background-color: #FFFFFF;
+  border-radius: 30px 30px 30px 30px;
+}
+
+.dl_subscribe_addons .dl_cu_btn {
+  white-space: nowrap;
+}
+
+.dl_pro_subscribe_form .dl_form_control {
+  margin: 0px 15px 0px 15px;
+}
+
+.dl_form_control_wrap .dl_form_control {
+  box-shadow: none;
+}
+span.dl_subs_message {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}

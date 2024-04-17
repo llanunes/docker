@@ -1,0 +1,167 @@
+/***========= Clients Logo Style 02 ============***/
+.startup_clients_logo {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+.startup_clients_logo img {
+    opacity: 0.5;
+    transition: all 0.4s ease-in-out;
+}
+
+.startup_clients_logo img + img {
+    top: 150%;
+    opacity: 1;
+    left: 50%;
+    transform: translateX(-50%);
+    visibility: hidden;
+    position: absolute;
+}
+.startup_clients_logo:hover img {
+    opacity: 1;
+    transform: translateY(-100%);
+}
+.startup_clients_logo:hover img + img {
+    top: 0;
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, 0%);
+}
+/* End Clients Logo Style 02 */
+
+
+/***========= Gallery Style 01 ============***/
+.pho_instragram_gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+.pho_instragram_gallery .instragram_gallery_col {
+    padding: 3px;
+    width: calc(100% / 6);
+}
+.pho_instragram_gallery .item {
+    display: block;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+.pho_instragram_gallery .item::before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(255, 77, 111, 0.6);
+    z-index: 0;
+    opacity: 0;
+    transition: all 0.3s linear;
+}
+.pho_instragram_gallery .item:hover::before {
+    opacity: 1;
+}
+.pho_instragram_gallery .item img {
+    max-width: 100%;
+    transition: all 0.4s linear;
+    position: relative;
+    z-index: -1;
+}
+
+.pho_instragram_gallery .item:hover img {
+    transform: scale(1.03);
+}
+
+.pho_instragram_gallery .item i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 25px;
+    opacity: 0;
+    transition: all 0.2s linear;
+}
+.pho_instragram_gallery .item:hover i {
+    opacity: 1;
+}
+
+
+/***========= Slideshow 01 ============***/
+.architecture_hero_area .architecture_text {
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -150px;
+    position: relative;
+    z-index: 1;
+}
+
+.architecture_hero_area .architecture_text h2 {
+    font-size: 150px;
+    line-height: 140px;
+    font-family: "GRIFTERB";
+    color: #1a1a1a;
+    margin-bottom: 0;
+}
+
+.architecture_hero_area .architecture_text h2 span {
+    color: #fff;
+    display: block;
+}
+
+.architecture_hero_area .hero_img {
+    height: 700px;
+    position: relative;
+    overflow: hidden;
+}
+
+.architecture_hero_area .hero_img .bg_img {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.resturent_img_slider img {
+    max-width: 100%;
+}
+
+.resturent_img_slider .slide-animation.slick-active img {
+    animation: fadezoom 10s infinite alternate;
+}
+@keyframes fadezoom {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.2);
+    }
+}
+
+
+
+
+/***====================================***/
+/***========= Responsive Device ============***/
+/***===================================***/
+@media (min-width: 1921px) {
+    .resturent_img_slider img {
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 1366px) {
+    .architecture_hero_area .hero_img {
+        height: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .pho_instragram_gallery .instragram_gallery_col {
+        width: calc(100% / 4);
+    }
+    .architecture_hero_area .architecture_text {
+        padding-left: 20px;
+    }
+}

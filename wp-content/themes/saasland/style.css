@@ -1,0 +1,17 @@
+/*
+Theme Name: Saasland
+Theme URI: https://saaslandwp.com/demo/
+Author: DroitThemes
+Author URI: https://themeforest.net/user/droitthemes
+Description: Saasland is a creative WordPress theme for saas, software, startup, mobile app, agency and related products & services. SaasLand is loaded with tons of features, elements & blocks, options that give its users real flexibility to create a dynamic, professional website in no time.
+Version: 3.6.4
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Requires at least: 4.9
+Tested up to: 6.3
+Requires PHP: 7.0
+Text Domain: saasland
+*/
+.letters-loading {
+    text-transform: lowercase !important;
+}

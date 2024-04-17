@@ -1,0 +1,26 @@
+a {
+  color: var(--color-black);
+}
+.fw_400 {
+  font-weight: var(--font-weight-400);
+}
+.fw_500 {
+  font-weight: var(--font-weight-500);
+}
+.fw_600 {
+  font-weight: var(--font-weight-600);
+}
+.fw_700 {
+  font-weight: var(--font-weight-700);
+}
+.text-color-black {
+  color: var(--text-color-black);
+}
+body {
+  font-family: var(--body-font-family);
+  font-size: 15px;
+  line-height: 1.6;
+  font-weight: var(--body-font-weight);
+  color: var(--body-color);
+  overflow-x: hidden;
+}

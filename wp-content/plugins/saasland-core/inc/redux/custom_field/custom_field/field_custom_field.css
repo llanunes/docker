@@ -1,0 +1,60 @@
+.redux-container{
+    position: relative;
+}
+.subscribe-form{
+    position: absolute;
+    left: 236px;
+    top: 24%;
+    background: #fff;
+    max-width: 775px;
+}
+.mail-chim-subscribe-form-submit{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,207cca+51,7db9e8+100;Blue+Gloss+Default */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,207cca+51,7db9e8+100;Blue+Gloss+Default */
+background: #1e5799; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+cursor: pointer;
+border: 0;
+color: #FFF;
+padding:14px 20px;
+border-radius: 5px;
+text-transform: uppercase;
+transition: all .5s;
+margin-left: -3px;
+}
+.mail-chim-subscribe-form-submit:hover{
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,207cca+51,7db9e8+100;Blue+Gloss+Default */
+background: #1e5799; /* Old browsers */
+background: -moz-linear-gradient(45deg,  #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+.mchimp-errmessage{
+    color: red;
+}
+.mchimp-sucmessage{
+    color: green;
+}
+.subscribe-form input{
+    min-height: 45px;
+    width: 280px;
+    max-width: 100%;
+    margin-right: 20px;
+}
+.subscribe-form{
+    display: none;
+}
+.subscribe-form.show-form{
+    display: block;
+}
+.subscribe-form p {
+    margin-bottom: 23px;
+}
+.wp-full-overlay.expanded{
+    margin-left: initial !important;
+}

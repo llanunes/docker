@@ -1,0 +1,355 @@
+/*============== Style 03 =================*/
+.arch_blog_area {
+    background: #f9f9f9;
+    padding: 80px 0 140px;
+}
+
+.arch_blog_area .architecture_btn_border {
+    margin-top: 80px;
+}
+
+.arch_blog_item {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-left: -15px;
+    margin-right: -15px;
+    align-items: center;
+    padding: 55px 0;
+}
+
+.arch_blog_item + .arch_blog_item {
+    border-top: 1px solid #aaaaaa;
+}
+
+.arch_blog_item .arch_post_date {
+    width: 15%;
+    padding: 0 15px;
+}
+
+.arch_blog_item .arch_post_date h3 {
+    font-size: 42px;
+    color: #1a1a1a;
+}
+
+.arch_blog_item .arch_post_date h3 span {
+    font-family: "HelveticaLight";
+    color: #8a8a8a;
+    font-size: 14px;
+    letter-spacing: 0.35px;
+    display: block;
+}
+
+.arch_blog_item .post_content {
+    width: 70%;
+    padding: 0 15px;
+}
+
+.arch_blog_item .post_content h3 {
+    font-size: 24px;
+    color: #1a1a1a;
+    letter-spacing: 0.6px;
+    margin-bottom: 0;
+    transition: all 0.2s linear;
+}
+
+.arch_blog_item .arch_blog_btn {
+    width: 15%;
+    text-align: right;
+    padding: 0 15px;
+}
+.arch_blog_btn a i {
+    font-size: 12px;
+    margin-left: 10px;
+    transition: margin 0.2s linear, color 0.5s;
+}
+
+.arch_blog_item:hover .post_content h3 {
+    color: #ff4e17;
+}
+.arch_blog_btn .rave_btn_effect:before,
+.arch_blog_btn .rave_btn_effect:hover::before {
+    text-align: left;
+}
+
+
+/*============== Style 04 =================*/
+.home_news_list_item {
+    padding: 50px 0;
+    cursor: pointer;
+    display: flex;
+}
+
+.home_news_list_item .news_post_date {
+    font-size: 24px;
+    color: #181b31;
+    font-weight: 600;
+    text-align: center;
+    background: #f7f8f9;
+    padding: 30px 10px;
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.2s linear;
+}
+
+.home_news_list_item .news_post_date span {
+    font-weight: 400;
+    color: #899097;
+    font-size: 14px;
+    display: block;
+}
+
+.home_news_list_item .news_post_img {
+    border-radius: 5px;
+    margin-right: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.home_news_list_item .news_post_img img {
+    transition: opacity 0.2s linear;
+}
+
+.home_news_list_item .media-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.home_news_list_item .media-body .text {
+    width: 60%;
+}
+
+.home_news_list_item .media-body .news_tag {
+    font-size: 12px;
+    font-weight: 600;
+    color: #899097;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+}
+
+.home_news_list_item .media-body h3 {
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.24px;
+    color: #181b31;
+    font-weight: 600;
+    transition: color 0.2s linear;
+}
+
+.home_news_list_item .media-body .news_btn {
+    font-size: 16px;
+    color: #899097;
+    font-weight: 400;
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    width: 170px;
+    position: relative;
+    overflow: hidden;
+}
+
+.home_news_list_item .media-body .news_btn span {
+    transition: all 0.2s linear;
+}
+
+.home_news_list_item .media-body .news_btn .h_text_btn {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 16px;
+    left: 0;
+    transform: translateX(-100%);
+}
+
+.home_news_list_item:hover .media-body .news_btn .h_text_btn {
+    transform: translateX(0);
+}
+
+.home_news_list_item .media-body .news_btn .h_text_btn::before {
+    content: attr(data-text);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    color: #460ec6;
+    overflow: hidden;
+    z-index: 0;
+    transition: all 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+    white-space: nowrap;
+}
+
+.home_news_list_item .media-body .news_btn .h_text_btn:hover:before {
+    width: 100%;
+}
+
+.home_news_list_item:hover .news_post_date {
+    opacity: 1;
+    visibility: visible;
+}
+
+.home_news_list_item:hover .news_post_img img {
+    opacity: 0;
+}
+
+/*.home_news_list_item .media-body .news_btn .h_text_btn:hover,*/
+.home_news_list_item:hover .media-body h3 {
+    color: #ff4d6f;
+}
+
+.home_news_list_item:hover .media-body .news_btn span {
+    transform: translateX(100%);
+}
+
+.home_news_list_item:hover .media-body .news_btn .h_text_btn {
+    transform: translateX(0);
+    right: 0;
+    left: auto;
+}
+
+.home_news_list_item + .home_news_list_item {
+    border-top: 1px solid #dfe2e7;
+}
+
+
+/*============== Style 05 =================*/
+.education_program_gallery_info {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    z-index: 2;
+}
+
+.education_program_gallery_info .program_gallery_item {
+    width: calc(100% / 4);
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.education_program_gallery_info .program_gallery_item img {
+    max-width: 100%;
+    transition: all 0.5s;
+}
+
+.education_program_gallery_info .program_gallery_item:hover img {
+    transform: scale(1.04);
+}
+
+.overlay_bg {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    height: 100%;
+    z-index: -1;
+}
+
+.education_program_gallery_info .overlay_bg {
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.502) 100%);
+    z-index: 0;
+}
+
+.education_program_gallery_info .content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.education_program_gallery_info .content h5 {
+    color: #fff;
+    font-size: 30px;
+    font-family: "Zilla Slab", serif;
+    font-weight: 600;
+    margin-bottom: 24px;
+    transition: color 0.2s linear;
+}
+
+.education_program_gallery_info .content h5:hover {
+    color: #35b7e1;
+}
+
+
+
+
+/*================== Responsive Device =====================*/
+
+/*
+** Min Width
+*/
+@media (min-width: 1921px) {
+    .education_program_gallery_info .program_gallery_item img {
+        width: 100%;
+    }
+}
+
+/*
+** Max Width
+*/
+@media (max-width: 991px) {
+    .education_program_gallery_info .program_gallery_item {
+        width: calc(100% / 2);
+    }
+    .arch_blog_item .arch_post_date {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .arch_blog_item .post_content {
+        width: 80%;
+    }
+    .arch_blog_item .arch_blog_btn {
+        width: 20%;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .arch_blog_item .post_content, .arch_blog_item .arch_blog_btn {
+        width: 100%;
+        text-align: left;
+    }
+}
+
+@media (max-width: 480px) {
+    .home_news_list_item .media-body,
+    .home_news_list_item {
+        display: block;
+    }
+
+    .home_news_list_item .news_post_img {
+        margin-right: 0;
+    }
+
+    .home_news_list_item .news_post_img img {
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .education_program_gallery_info .program_gallery_item,
+    .home_news_list_item .media-body .text {
+        width: 100%;
+    }
+    .home_news_list_item .media-body .news_btn {
+        justify-content: flex-start;
+        width: auto;
+        margin-top: 30px;
+        display: block;
+    }
+    .home_news_list_item .media-body .news_btn .h_text_btn {
+        transform: translateX(0);
+        position: relative;
+        display: block;
+        margin-top: 10px;
+    }
+    .home_news_list_item:hover .media-body .news_btn .h_text_btn {
+        transform: translateX(0);
+        position: relative;
+    }
+
+}

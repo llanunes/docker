@@ -1,0 +1,114 @@
+
+/* Start  se_tab_nav  */
+.se_tab_nav{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 25px;
+    border: 0px;
+    margin-bottom: 30px;
+}
+.se_tab_nav .nav-item{
+    margin-bottom: 20px;
+}
+.se_tab_nav .nav-item .nav-link{
+    text-align: center;
+    background: #04182F;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    border: 0px;
+    padding: 20px 10px 6px;
+    position: relative;
+}
+.se_tab_nav .nav-item .nav-link:before{
+    content: "";
+    display: block;
+    height: 20px;
+    width: 20px;
+    background: #5699bb;
+    border: inherit;
+    position: absolute;
+    bottom: -10px;
+    left: calc(50% - 10px);
+    clip-path: polygon(0% 0%, 100% 100%, 0% 100%);
+    transform: rotate(-45deg);
+    border-radius: 0 0 0 0.3em;
+    opacity: 0;
+    transition: all 0.2s;
+}
+.se_tab_nav .nav-item .nav-link.active{
+    background: linear-gradient(85.29deg, #6366FF 5.7%, #44DA64 99.7%);
+}
+.se_tab_nav .nav-item .nav-link.active:before{
+    opacity: 1;
+}
+.se_tab_nav .nav-item .nav-link h5{
+    font-size: 13px;
+    color: #fff;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    margin-top: 15px;
+}
+
+.se_tab_inner{
+    background: #04182F;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 55px;
+}
+.se_tab_img_box {
+    position: relative;
+    z-index: 1;
+    padding: 40px 30px;
+}
+.se_tab_img_box .se_shap_img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+.se_tab_img_box .se_tab_img{
+    border-radius: 5px;
+}
+.se_tab_content h2{
+    color: #fff;
+    font-size: 32px;
+    line-height: 1.4;
+    font-weight: 700;
+    margin-bottom: 18px;
+    font-family: "Poppins", sans-serif;
+}
+.se_tab_content p{
+    font-size: 15px;
+    line-height: 32px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 0;
+}
+.se_tab_content p + p{
+    margin-top: 30px;
+}
+
+@media (max-width: 991px){
+    .se_tab_nav{
+        column-gap: 8px;
+    }
+    .se_tab_img_box.text-center{
+        text-align: left !important;
+    }
+    .se_tab_content{
+        margin-top: 20px;
+    }
+    .se_tab_nav{
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .se_tab_inner{
+        padding: 40px 15px;
+    }
+}
+
+@media (max-width: 767px){
+    .se_tab_nav {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+/* Start  se_tab_nav  */

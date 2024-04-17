@@ -1,0 +1,195 @@
+.elementor-control-raw-html.elementor-warning {
+    padding: 10px;
+    background-color: #ffffcc;
+    border-left: 6px solid #ffeb3b;
+    line-height: 1.4;
+}
+
+/** === Style Variations === **/
+.elementor-control.elementor-control-style.elementor-control-type-choose.elementor-label-inline .elementor-control-input-wrapper,
+.elementor-control.elementor-control-style .elementor-control-content,
+.elementor-control.elementor-control-style .elementor-control-field {
+    display: block;
+}
+.elementor-control.elementor-control-style.elementor-control-type-choose.elementor-label-inline .elementor-control-input-wrapper {
+    margin-left: 0;
+}
+.elementor-control.elementor-control-style.elementor-control-type-choose label.elementor-control-title {
+    padding-bottom: 10px;
+    display: block;
+}
+.elementor-control.elementor-control-style .elementor-choices {
+    display: block;
+    height: auto;
+    width: 266px;
+}
+.elementor-control.elementor-control-style .elementor-choices .elementor-choices-label {
+    display: block;
+    width: 266px;
+    height: 110px;
+    border: 1px solid #d5dadf;
+}
+.elementor-control.elementor-control-style .elementor-choices input:checked+.elementor-choices-label {
+    border-width: 2px;
+    padding-right: 2px;
+}
+.elementor-control.elementor-control-style .elementor-choices label:not(:first-of-type) {
+    margin-top: 10px;
+}
+.elementor-control.elementor-control-style .elementor-choices .elementor-choices-label:hover {
+    border: 1px solid #6d7882;
+}
+.elementor-control.elementor-control-style .elementor-choices .elementor-choices-label i {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.elementor-control.elementor-control-style .elementor-choices .elementor-choices-label i::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .5;
+}
+.elementor-control.elementor-control-style .elementor-choices input+.elementor-choices-label:hover i::before,
+.elementor-control.elementor-control-style .elementor-choices input:checked+.elementor-choices-label i::before {
+    opacity: 1;
+}
+
+/** === Portfolio Style === **/
+.portfolio1::before {
+    background: url("../img/el-preview/portfolio1.jpg");
+    background-repeat: no-repeat;
+}
+.portfolio2::before {
+    background: url("../img/el-preview/portfolio2.jpg");
+    background-repeat: no-repeat;
+}
+.portfolio3::before {
+    background: url("../img/el-preview/portfolio3.jpg");
+    background-repeat: no-repeat;
+}
+
+/** === Portfolio Masonry Simple Style === **/
+.masonry1::before {
+    background: url("../img/el-preview/masonry-portfolio1.jpg");
+    background-repeat: no-repeat;
+}
+
+
+/** === Testimonials Style === **/
+.testimonial7::before {
+    background: url("../img/el-preview/testimonial7.jpg");
+    background-repeat: no-repeat;
+}
+.testimonial8::before {
+    background: url("../img/el-preview/testimonial8.jpg");
+    background-repeat: no-repeat;
+}
+.testimonial9::before {
+    background: url("../img/el-preview/testimonial9.png");
+    background-repeat: no-repeat;
+}
+
+/** === Hero Style === **/
+.hero1::before {
+    background: url("../img/el-preview/hero1.png");
+    background-repeat: no-repeat;
+}
+.hero2::before {
+    background: url("../img/el-preview/hero2.png");
+    background-repeat: no-repeat;
+}
+.hero3::before {
+    background: url("../img/el-preview/hero3.png");
+    background-repeat: no-repeat;
+}
+.hero4::before {
+    background: url("../img/el-preview/hero4.png");
+    background-repeat: no-repeat;
+}
+.hero5::before {
+    background: url("../img/el-preview/hero5.png");
+    background-repeat: no-repeat;
+}
+.hero6::before {
+    background: url("../img/el-preview/hero6.png");
+    background-repeat: no-repeat;
+}
+.hero7::before {
+    background: url("../img/el-preview/hero7.png");
+    background-repeat: no-repeat;
+}
+.hero8::before {
+    background: url("../img/el-preview/hero8.png");
+    background-repeat: no-repeat;
+}
+.hero9::before {
+    background: url("../img/el-preview/hero9.png");
+    background-repeat: no-repeat;
+}
+
+.hero10::before {
+    background: url("../img/el-preview/hero10.png");
+    background-repeat: no-repeat;
+}
+
+.hero11::before {
+    background: url("../img/el-preview/hero11.png");
+    background-repeat: no-repeat;
+}
+
+.hero12::before {
+    background: url("../img/el-preview/hero12.png");
+    background-repeat: no-repeat;
+}
+
+.hero13::before {
+    background: url("../img/el-preview/hero13.png");
+    background-repeat: no-repeat;
+}
+
+.hero14::before {
+    background: url("../img/el-preview/hero14.png");
+    background-repeat: no-repeat;
+}
+
+.hero15::before {
+    background: url("../img/el-preview/hero15.png");
+    background-repeat: no-repeat;
+}
+.hero16::before {
+    background: url("../img/el-preview/hero16.png");
+    background-repeat: no-repeat;
+}
+
+
+/*------- Blog Styles a-------   */
+
+.blog1::before {
+    background: url("../img/el-preview/blog1.png");
+    background-repeat: no-repeat;
+}
+
+.blog2::before {
+    background: url("../img/el-preview/blog2.png");
+    background-repeat: no-repeat;
+}
+
+.blog3::before {
+    background: url("../img/el-preview/blog3.png");
+    background-repeat: no-repeat;
+}
+
+.blog4::before {
+    background: url("../img/el-preview/blog4.jpg");
+    background-repeat: no-repeat;
+}
+
+.blog5::before {
+    background: url("../img/el-preview/blog5.jpg");
+    background-repeat: no-repeat;
+}

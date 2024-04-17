@@ -1,0 +1,57 @@
+/**======= Serialized Features ======**/
+.business_info .work_steps_item {
+    text-align: center;
+    padding: 0 50px;
+    position: relative;
+    cursor: pointer;
+}
+
+.business_info .work_steps_item:not(:first-child)::before {
+    content: "";
+    width: 100%;
+    height: 1px;
+    background-image: linear-gradient(45deg, #5ea99f, #5ea99f 75%, transparent 75%, transparent 100%);
+    background-size: 6px 7px;
+    position: absolute;
+    top: 33px;
+    left: -51%;
+    z-index: -1;
+}
+
+.business_info .work_steps_item .number {
+    width: 70px;
+    height: 70px;
+    border: 1px dashed #5ea99f;
+    font-size: 24px;
+    color: #5ea99f;
+    text-align: center;
+    line-height: 68px;
+    border-radius: 50%;
+    display: inline-block;
+    background: #fff;
+    position: relative;
+    z-index: 1;
+    transition: 0.2s linear;
+}
+.business_info .work_steps_item:hover .number {
+    background: #ff4d33;
+    border-color: #ff4d33;
+    color: #fff;
+}
+
+
+
+/*================Responsive Device ========================*/
+@media (max-width: 991px) {
+    .business_info .work_steps_item:not(:last-child) {
+        margin-bottom: 50px;
+    }
+    .business_info .work_steps_item:not(:first-child)::before {
+        display: none;
+    }
+    .business_info > .row {
+        justify-content: center;
+    }
+}
+
+
