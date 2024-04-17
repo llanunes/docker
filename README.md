@@ -32,10 +32,10 @@ services:
       - db_data:/var/lib/mysql
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: 4D0N@13L5H4dD4i
+      MYSQL_ROOT_PASSWORD: sua_senha
       MYSQL_DATABASE: wp_j3express
-      MYSQL_USER: _j3express
-      MYSQL_PASSWORD: 4D0N@13L5H4dD4i
+      MYSQL_USER: seu_user
+      MYSQL_PASSWORD: sua_senha
 
   wordpress:
     depends_on:
@@ -46,9 +46,9 @@ services:
     restart: always
     environment:
       WORDPRESS_DB_HOST: db:3306
-      WORDPRESS_DB_USER: _j3express
-      WORDPRESS_DB_PASSWORD: 4D0N@13L5H4dD4i
-      WORDPRESS_DB_NAME: wp_j3express
+      WORDPRESS_DB_USER: seu_user
+      WORDPRESS_DB_PASSWORD: sua_senha
+      WORDPRESS_DB_NAME: wpseu_user
     volumes:
       - ./wp-content:/var/www/html/wp-content
 
